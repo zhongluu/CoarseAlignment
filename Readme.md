@@ -4,6 +4,8 @@ This code is used to achieve the coarse initial attitude before the navigation. 
 
 reference paper link DOI：10.1109/tim.2020.2983578
 
+Mine method presents in ./matlab/mine
+
 ## Dependency
 1. Running in Matlab 2022b
 2. depend on the psins toolbox that can be achieved by https://www.psins.org.cn/ or https://github.com/WangShanpeng/PSINS
